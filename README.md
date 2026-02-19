@@ -7,18 +7,18 @@ This system can analyze both normal and scanned (non-ATS) resumes using AI.
 
 ##  Features
 
-  -Supports multiple resume formats:
+  - Supports multiple resume formats:
   - `.docx`
   - `.txt`
   - Scanned images (`.png`, `.jpg`)
-  -OCR-based text extraction using Tesseract
-  -GPT-powered resume evaluation with OpenAI API
-  -AI-generated:
+  - OCR-based text extraction using Tesseract
+  - GPT-powered resume evaluation with OpenAI API
+  - AI-generated:
   - Match Score (0–100)
   - Key Strengths
   - Missing Skills
   - Hiring Recommendation
-  -Web UI using Gradio
+  - Web UI using Gradio
 
 
 
